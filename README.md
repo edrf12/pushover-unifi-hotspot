@@ -4,7 +4,7 @@ This is an external portal server for Unifi that sends a Pushover emergency prio
 
 ## Deployment
 
-To deploy this captive portal use the Docker image published by your repository, for example `ghcr.io/OWNER/REPOSITORY`.
+To deploy this captive portal use the Docker image published by your repository, for example `ghcr.io/edrf12/pushover-unifi-hotspot`.
 
 The portal listens by default at port 3000.
 
