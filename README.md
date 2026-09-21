@@ -10,7 +10,7 @@ The portal listens by default at port 3000.
 
 You must supply the following environment variables:
 - `APPLICATION_URL`: Public portal url (Pushover will need to be able to call this).
-- `UNIFI_API_URL`: UniFi integration API base URL, before `/v1`.
+- `UNIFI_API_URL`: UniFi api url.
 - `UNIFI_API_KEY`: UniFi API key.
 - `UNIFI_SITE_ID`: UniFi site ID.
 - `PUSHOVER_TOKEN`: Pushover application token.
